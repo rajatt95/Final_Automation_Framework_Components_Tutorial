@@ -1,0 +1,10 @@
+2021-06-25 21:26:34,092 [main] INFO _02_Log4J._01_Log4J - Chrome Browser opened
+2021-06-25 21:26:34,274 [main] INFO _02_Log4J._01_Log4J - Browser Window maximized
+2021-06-25 21:26:34,288 [main] INFO _02_Log4J._01_Log4J - Impicit Wait given
+2021-06-25 21:26:36,188 [main] INFO _02_Log4J._01_Log4J - Application launched
+2021-06-25 21:26:40,652 [main] INFO _02_Log4J._01_Log4J - Application closed
+2021-07-02 00:23:47,087 [main] INFO _02_Log4J._01_Log4J - Chrome Browser opened
+2021-07-02 00:23:47,280 [main] INFO _02_Log4J._01_Log4J - Browser Window maximized
+2021-07-02 00:23:47,289 [main] INFO _02_Log4J._01_Log4J - Impicit Wait given
+2021-07-02 00:23:49,449 [main] INFO _02_Log4J._01_Log4J - Application launched
+2021-07-02 00:23:55,761 [main] INFO _02_Log4J._01_Log4J - Application closed
